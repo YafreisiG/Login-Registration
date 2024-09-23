@@ -6,3 +6,6 @@
 <P>- **JavaScript**: Manejo de eventos para la interacción del usuario.</P>
 
 ![image](https://github.com/user-attachments/assets/4bb3dfc2-62ab-42ee-948b-996c1f5a0d38)
+
+![image](https://github.com/user-attachments/assets/4e9814da-43e5-44a3-b15d-71dac89806f0)
+
